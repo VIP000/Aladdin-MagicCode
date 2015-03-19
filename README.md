@@ -1,0 +1,2 @@
+# Aladdin-MagicCode
+Aladdin MagicCode
